@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+     <meta charset="UTF-8">
+     <meta name="vieport" contente="width=device-width, initial-scale=1.0" />
+     <title>document</title>
+</head>
+<body>
+    <!--Titre 1-->
+    <h1>Liste des Université du Sénégale</h1>
+    <hr />
+    
+<!--Titre 1-->
+    <h2>Université Cheikh Anta Diop de Dakar</h2>
+<p>Université Cheikh Anta Diop de Dakar...description</p>
+<hr />
+
+    <!--Titre 1-->
+    <h2>Universite Gaston Berger de Saint Louis</h2>
+    <p>Universite Gaston Berger de Saint Louis ... description</p>
+    <hr />
+
+    <!--Titre 1-->
+    <h2>Universite Virtuelle du Senegal</h2>
+    <p>Universite Virtuelle du Senegal... description</p>
+    <hr />
+
+    <!--hr : ligne horizonetal-->
+</body>
+</html>

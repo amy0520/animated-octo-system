@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!--Auteur:votre Nom,Date de creation:"jj/MM/AAAA"-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<p>titre du paragraphe</p>
+<pre>
+Université Cheikh Anta Diop de Dakar
+Université Gaston Berger de Saint Louis
+<!--Université de Matam-->
+</pre>
+</body>
+</html>
